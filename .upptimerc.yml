@@ -29,5 +29,13 @@ status-website:
       href: https://github.com/$OWNER/$REPO
 assignees:
   - Computroniks
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 */12 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/5 * * * *"
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
