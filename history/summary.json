@@ -4,18 +4,20 @@
     "url": "https://www.sidingsmedia.com",
     "icon": "https://favicons.githubusercontent.com/www.sidingsmedia.com",
     "slug": "sidings-media",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 470,
-    "timeDay": 465,
-    "timeWeek": 463,
-    "timeMonth": 470,
-    "timeYear": 470,
-    "dailyMinutesDown": {}
+    "time": 471,
+    "timeDay": 486,
+    "timeWeek": 449,
+    "timeMonth": 471,
+    "timeYear": 471,
+    "dailyMinutesDown": {
+      "2022-02-03": 0
+    }
   },
   {
     "name": "OpenProject",
@@ -28,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 784,
-    "timeDay": 1161,
-    "timeWeek": 804,
-    "timeMonth": 784,
-    "timeYear": 784,
+    "time": 780,
+    "timeDay": 727,
+    "timeWeek": 752,
+    "timeMonth": 780,
+    "timeYear": 780,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 411,
-    "timeDay": 1378,
-    "timeWeek": 529,
-    "timeMonth": 411,
-    "timeYear": 411,
+    "time": 413,
+    "timeDay": 439,
+    "timeWeek": 507,
+    "timeMonth": 413,
+    "timeYear": 413,
     "dailyMinutesDown": {}
   }
 ]
