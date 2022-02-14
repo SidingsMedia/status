@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 442,
-    "timeDay": 347,
-    "timeWeek": 384,
+    "timeDay": 436,
+    "timeWeek": 395,
     "timeMonth": 442,
     "timeYear": 442,
     "dailyMinutesDown": {}
@@ -22,18 +22,20 @@
     "url": "https://openproject.sidingsmedia.com",
     "icon": "https://favicons.githubusercontent.com/openproject.sidingsmedia.com",
     "slug": "open-project",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 723,
-    "timeDay": 599,
-    "timeWeek": 614,
-    "timeMonth": 723,
-    "timeYear": 723,
-    "dailyMinutesDown": {}
+    "time": 722,
+    "timeDay": 692,
+    "timeWeek": 630,
+    "timeMonth": 722,
+    "timeYear": 722,
+    "dailyMinutesDown": {
+      "2022-02-14": 0
+    }
   },
   {
     "name": "Docs",
@@ -47,8 +49,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 358,
-    "timeDay": 170,
-    "timeWeek": 253,
+    "timeDay": 363,
+    "timeWeek": 272,
     "timeMonth": 358,
     "timeYear": 358,
     "dailyMinutesDown": {}
