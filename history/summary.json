@@ -22,19 +22,19 @@
     "url": "https://openproject.sidingsmedia.com",
     "icon": "https://favicons.githubusercontent.com/openproject.sidingsmedia.com",
     "slug": "open-project",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 722,
-    "timeDay": 692,
-    "timeWeek": 630,
-    "timeMonth": 722,
-    "timeYear": 722,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 726,
+    "timeDay": 788,
+    "timeWeek": 653,
+    "timeMonth": 726,
+    "timeYear": 726,
     "dailyMinutesDown": {
-      "2022-02-14": 0
+      "2022-02-14": 6
     }
   },
   {
