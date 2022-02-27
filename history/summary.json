@@ -4,36 +4,40 @@
     "url": "https://www.sidingsmedia.com",
     "icon": "https://favicons.githubusercontent.com/www.sidingsmedia.com",
     "slug": "sidings-media",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 448,
-    "timeDay": 532,
-    "timeWeek": 469,
-    "timeMonth": 438,
+    "timeDay": 505,
+    "timeWeek": 477,
+    "timeMonth": 439,
     "timeYear": 448,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-27": 0
+    }
   },
   {
     "name": "OpenProject",
     "url": "https://openproject.sidingsmedia.com",
     "icon": "https://favicons.githubusercontent.com/openproject.sidingsmedia.com",
     "slug": "open-project",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 763,
-    "timeDay": 767,
-    "timeWeek": 985,
-    "timeMonth": 752,
-    "timeYear": 763,
-    "dailyMinutesDown": {}
+    "time": 761,
+    "timeDay": 703,
+    "timeWeek": 989,
+    "timeMonth": 750,
+    "timeYear": 761,
+    "dailyMinutesDown": {
+      "2022-02-27": 0
+    }
   },
   {
     "name": "Docs",
@@ -46,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 356,
-    "timeDay": 870,
-    "timeWeek": 416,
-    "timeMonth": 358,
-    "timeYear": 356,
+    "time": 354,
+    "timeDay": 561,
+    "timeWeek": 419,
+    "timeMonth": 357,
+    "timeYear": 354,
     "dailyMinutesDown": {}
   }
 ]
