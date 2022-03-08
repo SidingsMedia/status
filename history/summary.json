@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/www.sidingsmedia.com",
     "slug": "sidings-media",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.90%",
+    "uptimeDay": "95.28%",
+    "uptimeWeek": "99.33%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.90%",
     "time": 454,
     "timeDay": 683,
     "timeWeek": 496,
     "timeMonth": 452,
     "timeYear": 454,
     "dailyMinutesDown": {
-      "2022-03-08": 0
+      "2022-03-08": 68
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://openproject.sidingsmedia.com",
     "icon": "https://favicons.githubusercontent.com/openproject.sidingsmedia.com",
     "slug": "open-project",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 758,
-    "timeDay": 1025,
-    "timeWeek": 765,
-    "timeMonth": 764,
-    "timeYear": 758,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "95.31%",
+    "uptimeWeek": "99.33%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.90%",
+    "time": 782,
+    "timeDay": 1760,
+    "timeWeek": 930,
+    "timeMonth": 806,
+    "timeYear": 782,
     "dailyMinutesDown": {
-      "2022-03-08": 0
+      "2022-03-08": 68
     }
   },
   {
