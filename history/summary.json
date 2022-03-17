@@ -5,18 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/www.sidingsmedia.com",
     "slug": "sidings-media",
     "status": "up",
-    "uptime": "98.05%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "96.39%",
-    "uptimeYear": "98.05%",
+    "uptime": "98.06%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "96.41%",
+    "uptimeYear": "98.06%",
     "time": 462,
     "timeDay": 616,
     "timeWeek": 513,
-    "timeMonth": 481,
+    "timeMonth": 483,
     "timeYear": 462,
     "dailyMinutesDown": {
-      "2022-03-16": 7,
       "2022-03-09": 538,
       "2022-03-08": 1035
     }
@@ -35,7 +34,7 @@
     "time": 891,
     "timeDay": 1158,
     "timeWeek": 861,
-    "timeMonth": 1067,
+    "timeMonth": 1076,
     "timeYear": 891,
     "dailyMinutesDown": {
       "2022-03-09": 141,
@@ -56,7 +55,7 @@
     "time": 365,
     "timeDay": 1051,
     "timeWeek": 408,
-    "timeMonth": 378,
+    "timeMonth": 382,
     "timeYear": 365,
     "dailyMinutesDown": {}
   }
