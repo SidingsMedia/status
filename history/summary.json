@@ -1,20 +1,20 @@
 [
   {
     "name": "Sidings Media",
-    "url": "https://sidingsmedia.com",
-    "icon": "https://favicons.githubusercontent.com/sidingsmedia.com",
+    "url": "https://www.sidingsmedia.com",
+    "icon": "https://favicons.githubusercontent.com/www.sidingsmedia.com",
     "slug": "sidings-media",
-    "status": "down",
+    "status": "up",
     "uptime": "98.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.41%",
     "uptimeYear": "98.30%",
-    "time": 472,
-    "timeDay": 383,
-    "timeWeek": 552,
-    "timeMonth": 507,
-    "timeYear": 472,
+    "time": 471,
+    "timeDay": 390,
+    "timeWeek": 542,
+    "timeMonth": 505,
+    "timeYear": 471,
     "dailyMinutesDown": {
       "2022-03-09": 538,
       "2022-03-08": 1035
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.52%",
     "uptimeYear": "99.77%",
-    "time": 887,
-    "timeDay": 780,
-    "timeWeek": 847,
-    "timeMonth": 1044,
-    "timeYear": 887,
+    "time": 885,
+    "timeDay": 742,
+    "timeWeek": 833,
+    "timeMonth": 1038,
+    "timeYear": 885,
     "dailyMinutesDown": {
       "2022-03-09": 141,
       "2022-03-08": 68
@@ -52,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 375,
-    "timeDay": 355,
-    "timeWeek": 448,
-    "timeMonth": 407,
-    "timeYear": 375,
+    "time": 374,
+    "timeDay": 339,
+    "timeWeek": 438,
+    "timeMonth": 405,
+    "timeYear": 374,
     "dailyMinutesDown": {}
   }
 ]
