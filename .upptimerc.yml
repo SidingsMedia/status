@@ -4,7 +4,7 @@ repo: status # The name of this repository
 
 sites:
   - name: Sidings Media
-    url: https://www.sidingsmedia.com
+    url: https://sidingsmedia.com
   - name: OpenProject
     url: https://openproject.sidingsmedia.com
   - name: Docs
