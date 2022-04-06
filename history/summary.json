@@ -5,18 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/www.sidingsmedia.com",
     "slug": "sidings-media",
     "status": "up",
-    "uptime": "98.56%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "96.39%",
-    "uptimeYear": "98.56%",
+    "uptime": "98.57%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "96.41%",
+    "uptimeYear": "98.57%",
     "time": 465,
     "timeDay": 410,
     "timeWeek": 429,
     "timeMonth": 490,
     "timeYear": 465,
     "dailyMinutesDown": {
-      "2022-04-05": 9,
       "2022-03-09": 538,
       "2022-03-08": 1035
     }
@@ -27,18 +26,17 @@
     "icon": "https://favicons.githubusercontent.com/openproject.sidingsmedia.com",
     "slug": "open-project",
     "status": "up",
-    "uptime": "99.80%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.50%",
-    "uptimeYear": "99.80%",
+    "uptime": "99.81%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.52%",
+    "uptimeYear": "99.81%",
     "time": 880,
     "timeDay": 591,
     "timeWeek": 684,
     "timeMonth": 1061,
     "timeYear": 880,
     "dailyMinutesDown": {
-      "2022-04-05": 9,
       "2022-03-09": 141,
       "2022-03-08": 68
     }
@@ -57,7 +55,7 @@
     "time": 372,
     "timeDay": 217,
     "timeWeek": 380,
-    "timeMonth": 406,
+    "timeMonth": 405,
     "timeYear": 372,
     "dailyMinutesDown": {}
   }
