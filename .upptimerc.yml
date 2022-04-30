@@ -15,7 +15,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: status.sidingsmedia.com
   theme: night
-  # baseUrl: /your-repo-name
+  baseUrl: /status
   logoUrl: https://www.sidingsmedia.com/images/logos/smLogo.svg
   name: Sidings Media Systems Status
   introTitle: "Sidings Media systems status"
