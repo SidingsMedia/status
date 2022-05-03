@@ -19,9 +19,11 @@ status-website:
   logoUrl: https://www.sidingsmedia.com/images/logos/smLogo.svg
   name: Sidings Media Systems Status
   introTitle: "Sidings Media systems status"
-  introMessage: This site provides a live overview of all of our publicly available websites
+  introMessage: This is an alternative monitoring system for our public services. For the main system, please visit https://status.sidingsmedia.com. Please note, checks are only ran every 5 minutes here so data may not be up to date.
   navbar:
-    - title: Status
+    - title: Main Status
+      href: https://status.sidingsmedia.com
+    - title: Alternate Status
       href: /
     - title: Website
       href: https://www.sidingsmedia.com
