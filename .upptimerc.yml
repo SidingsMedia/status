@@ -13,9 +13,9 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: github.sidingsmedia.com
+  cname: alt.status.sidingsmedia.com
   theme: night
-  baseUrl: /status
+  #baseUrl: /status
   logoUrl: https://www.sidingsmedia.com/images/logos/smLogo.svg
   name: Sidings Media Systems Status
   introTitle: "Sidings Media systems status"
