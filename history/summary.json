@@ -11,8 +11,8 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.20%",
     "time": 528,
-    "timeDay": 426,
-    "timeWeek": 457,
+    "timeDay": 446,
+    "timeWeek": 463,
     "timeMonth": 492,
     "timeYear": 528,
     "dailyMinutesDown": {
@@ -37,9 +37,9 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.81%",
     "time": 821,
-    "timeDay": 729,
-    "timeWeek": 736,
-    "timeMonth": 767,
+    "timeDay": 806,
+    "timeWeek": 755,
+    "timeMonth": 770,
     "timeYear": 821,
     "dailyMinutesDown": {
       "2022-06-22": 25,
@@ -62,16 +62,34 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.95%",
-    "time": 397,
-    "timeDay": 496,
-    "timeWeek": 416,
-    "timeMonth": 423,
-    "timeYear": 397,
+    "time": 399,
+    "timeDay": 552,
+    "timeWeek": 458,
+    "timeMonth": 431,
+    "timeYear": 399,
     "dailyMinutesDown": {
       "2022-07-01": 23,
       "2022-06-30": 59,
       "2022-06-21": 19,
       "2022-06-16": 15
     }
+  },
+  {
+    "name": "Packet Blade",
+    "url": "https://packetblade.sidingsmedia.com",
+    "icon": "https://favicons.githubusercontent.com/packetblade.sidingsmedia.com",
+    "slug": "packet-blade",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 171,
+    "timeDay": 171,
+    "timeWeek": 171,
+    "timeMonth": 171,
+    "timeYear": 171,
+    "dailyMinutesDown": {}
   }
 ]
