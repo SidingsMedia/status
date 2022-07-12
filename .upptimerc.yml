@@ -9,6 +9,8 @@ sites:
     url: https://openproject.sidingsmedia.com
   - name: Docs
     url: https://docs.sidingsmedia.com
+  - name: Packet Blade
+    url: https://packetblade.sidingsmedia.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
