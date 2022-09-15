@@ -80,19 +80,19 @@
     "url": "https://packetblade.sidingsmedia.com",
     "icon": "https://favicons.githubusercontent.com/packetblade.sidingsmedia.com",
     "slug": "packet-blade",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "98.22%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.97%",
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "97.15%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.96%",
     "time": 149,
-    "timeDay": 124,
+    "timeDay": 129,
     "timeWeek": 148,
-    "timeMonth": 128,
+    "timeMonth": 129,
     "timeYear": 149,
     "dailyMinutesDown": {
-      "2022-09-15": 26
+      "2022-09-15": 41
     }
   }
 ]
